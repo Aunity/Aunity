@@ -1,6 +1,6 @@
 ## Hey 👋, This is Aunity
 
-### 你好，世界 👋
+### Hello, world! 👋
 
 - :orange_book: Focusing on CADD and ML
 - :hammer: Creator of applications and frameworks
